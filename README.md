@@ -17,9 +17,9 @@ Role-Based Access Control: Secure login environments tailored for different user
 
 Interactive Data Grids: Allows users to easily filter, sort, and update campus records in real-time.
 
-Custom Dashboards: Provides visual analytics and high-level summaries of menu items, pending requests and active bookings.
+Custom Dashboards: Provides visual analytics and high-level summaries of daily order volumes, popular menu items, and active meal plan statuses.
 
-Automated Workflows: Utilizes PL/SQL processes to automate approval status changes, email notifications and menu item selections.
+Automated Workflows: Utilizes PL/SQL processes to automate order status updates, inventory deductions, and confirmation notifications.
 
 
 🛠️ Technical Architecture
